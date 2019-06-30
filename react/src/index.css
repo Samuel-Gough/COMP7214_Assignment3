@@ -12,3 +12,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#navbar{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+#navlink{
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
