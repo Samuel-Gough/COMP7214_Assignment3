@@ -8,7 +8,7 @@
     "just-once": "npm start"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "express": "^4.16.4",
     "mongoose": "^5.5.1"
   },
